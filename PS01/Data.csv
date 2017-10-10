@@ -1,0 +1,13 @@
+item,year,x,y,r,fill, opacity
+Biomass,2010,25.07,358853,10,red,0.5
+Geothermal,2010,17.93,201587,10,orange,0.5
+Solar Thermal,2010,51.12,1787,10,yellow,0.5
+Hydro,2010,36.8,35890,10,green,0.5
+Wind,2010,19.77,261206,10,blue,0.5
+Biofuels,2010,65.53,3160,10,purple,0.5
+Biomass,2016,32.61,423118,15,red,0.5
+Geothermal,2016,29.93,260116,15,orange,0.5
+Solar Thermal,2016,98.29,66872,30,yellow,0.5
+Hydro,2016,54.13,55706,20,green,0.5
+Wind,2016,57.92,656678,25,blue,0.5
+Biofuels,2016,96.64,38475,30,purple,0.5

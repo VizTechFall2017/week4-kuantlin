@@ -1,8 +1,8 @@
-x,y,r,fill
-140,78,10,orange
-20,400,50,red
-93,75,6,purple
-75,10,15,green
-250,200,9,blue
-400,400,12,yellow
-72,325,35,magenta
+x,y,r,fill,angle,radius,
+140,78,10,orange,,,0
+20,400,50,red,,,
+85,75,6,purple,,,
+75,10,15,green,,,
+250,150,9,blue,,,
+400,300,12,yellow,,,
+72,200,35,magenta,,,
